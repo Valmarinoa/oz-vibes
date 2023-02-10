@@ -34,7 +34,7 @@ const ModalInner = () => {
       {showSuccess ? (
         <SuccessContainer>
           <Senoras />
-          <H4>YESSS !!!</H4>
+          <H4>ALEGRIA</H4>
           <P>Lilly is set to go🍹🌛</P>
         </SuccessContainer>
       ) : (
