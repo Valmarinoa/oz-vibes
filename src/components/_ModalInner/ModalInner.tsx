@@ -39,7 +39,7 @@ const ModalInner = () => {
         </SuccessContainer>
       ) : (
         <>
-          <H3>Say Hi!</H3>
+          <H3>I'll miss you..</H3>
           <P>
             Your adventure is about to begin. I hope to follow all your new
             discoveries.
